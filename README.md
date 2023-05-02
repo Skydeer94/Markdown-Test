@@ -2,33 +2,10 @@
 ## Civil Enginner 🏦/ Web Developer 💻/ Front End 💡/ Full Stack in progress 👨‍💻
 
 
-### ***PERFIL***
+### ***PROFILE***
 
-Me destaco por ser una persona honesta con cualidades de liderazgo, trabajo en equipo y  comunicación. Poseo un deseo de aprender y superarme cada día, capacidad para trabajar bajo presión en labores que demandan respuesta inmediata, imaginación e iniciativa para desarrollar ideas nuevas y facilidad para tomar decisiones.
+I am a front end developer and civil engineer with four years of experience in development and building of different kinds of buildings in some Colombian cities.
 
-### ***EXPERIENCIA LABORAL***
+I have led projects with social focusing, I have stood out due to quick decision making in situations that need it, and a great human resources management to accomplish with stablished targets and stipulated time from project beginning.
 
-1. ***DISEÑOS Y PILOTAJES DISEPIL S.A.S.*** _/ 07 MAYO 2022 - 31 AGO 2022_ _/ RESIDENTE DE OBRA_
-2. ***CONSORCIO INFRAESTRUCTURA HOSPITALARIA*** _/ 07 OCT 2020 - 24 FEB 2022_ _/ RESIDENTE DE INTERVENTORIA_
-3. ***G & L ARQUITECTURA Y ACABADOS S.A.S.*** _/ 07 DIC 2018 - 15 MAR 2020_ _/ RESIDENTE DE OBRA_
-
-
-### ***TABLA DE COMANDOS***
-
-| Comando | Descripción|
-| --- | --- |
-| ls | Lista los archivos de la carpeta actual |
-| cd | Permite navegar entre carpetas |
-| mkdir | Crea una nueva carpeta dando un nombre para la carpeta |
-| cp | Permite copiar una carpeta dada una ruta inicial y final |
-| pwd | Muestra la ruta absoluta del directorio actual |
-
-
-
-
-### ***ALIAS ÚTILES***
-
-| Comando | Descripción|
-| --- | --- |
-| cl | Clear = Permite borrar el contenido de la terminal |
-| npmd | El comando dev = "npm run dev" |
+Currently I am starting my career as a web developer with some freelance projects as a front-end developer, besides that, I am part of a fullback JavaScript bootcamp where the own work is combined with the team work between senior and junior developers, all of this with efficient and actual use apps. I am eager of beginning my professional and personal growth process in a company of the field.
