@@ -1,5 +1,5 @@
 # Alvaro Steven Angel Chaves
-## Civil Enginner 🏦/ Web Developer 💻/ Front End 💡/ Full Stack in progress 👨‍💻
+## Front end developer junior | Civil engineeer
 
 
 ### ***PROFILE***
